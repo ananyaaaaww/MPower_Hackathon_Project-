@@ -1,4 +1,4 @@
-# FC36-THEITGUY
+# FC36-THEITGUY (Team Name)
 # MPower 
 Invest in Mindset
 
