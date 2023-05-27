@@ -1,8 +1,10 @@
 FC36-THEITGUY
-MPower
+# MPower 
 Invest in Mindset
 
-cf041e54-c72d-4127-a9cc-aecfe3c397b9
+![cf041e54-c72d-4127-a9cc-aecfe3c397b9](https://user-images.githubusercontent.com/84352394/173156471-634a4e27-3c56-4b31-9dd6-aa0217510226.jpg)
+
+
 
 We aim at empowering mind's power.In a country like India where even talking about MH issues is a taboo, our goal is to be a part of change and work on spreading awarness and normalise talking about these issues.MH is just as important as physical and our website solely focuses on the users mental health. 'Two out of three people suffer in silence,we are here to change that.'
 
